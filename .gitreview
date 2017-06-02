@@ -1,0 +1,5 @@
+[gerrit]
+host=review.xosp.org
+port=29418
+project=android_vendor_codeaurora_telephony.git
+defaultbranch=xosp-n-rebase
